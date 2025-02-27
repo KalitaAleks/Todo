@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "do+M7j3Gvmc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.kalita\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "TodoApi.API.Controllers.AUTHController",
+    "Method": "Login",
+    "RelativePath": "api/AUTH/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TodoApi.Core.DTO.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoApi.API.Controllers.AUTHController",
+    "Method": "GetUserInfo",
+    "RelativePath": "api/AUTH/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoApi.API.Controllers.AUTHController",
+    "Method": "Register",
+    "RelativePath": "api/AUTH/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TodoApi.Core.DTO.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

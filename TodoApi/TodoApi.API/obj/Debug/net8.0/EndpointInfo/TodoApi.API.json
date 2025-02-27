@@ -1,0 +1,125 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "TodoApi.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/AUTH/register": {
+      "post": {
+        "tags": [
+          "AUTH"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRegisterDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRegisterDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRegisterDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AUTH/login": {
+      "post": {
+        "tags": [
+          "AUTH"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AUTH/me": {
+      "get": {
+        "tags": [
+          "AUTH"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "UserLoginDto": {
+        "required": [
+          "email",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserRegisterDto": {
+        "required": [
+          "email",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
+            "minLength": 6,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

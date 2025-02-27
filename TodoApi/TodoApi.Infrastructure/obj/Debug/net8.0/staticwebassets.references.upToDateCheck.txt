@@ -1,0 +1,15 @@
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
