@@ -63,3 +63,6 @@ C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\TodoApi.Infrastructure.pdb
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\TodoApi.Infrastructure.genruntimeconfig.cache
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\ref\TodoApi.Infrastructure.dll
+C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\TodoApi.Infrastructure.Properties.Resources.resources
+C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\TodoApi.Infrastructure.csproj.GenerateResource.cache
+C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

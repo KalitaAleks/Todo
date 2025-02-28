@@ -1,0 +1,1 @@
+C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.build.json
