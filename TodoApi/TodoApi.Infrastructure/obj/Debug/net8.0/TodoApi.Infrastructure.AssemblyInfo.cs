@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b372b5b859f7543550c9044229272f9abbf0925c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ee2558abfb51f5b06ebee839b3efb149b36627")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
