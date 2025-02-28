@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "Hash": "K5AJgWda7+ATiJ7t9ujhQwivEZjdAyuE9ko1WPAKZAc=",
+  "Hash": "qvRIYq3IDmQvfMQrqIrNMS35MaIc2GFqlVGRjHwTyHc=",
   "Source": "TodoApi.Infrastructure",
   "BasePath": "_content/TodoApi.Infrastructure",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
+      "Identity": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
       "Version": 2,
       "Source": "TodoApi.Core",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],

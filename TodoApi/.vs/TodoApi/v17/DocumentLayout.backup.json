@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\source\\repos\\newrepo\\dotnettaskmanager\\todoapi\\todoapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB474888-B5B5-4FBD-8139-0FC052C29726}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\a.kalita\\source\\repos\\newrepo\\dotnettaskmanager\\todoapi\\todoapi.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB474888-B5B5-4FBD-8139-0FC052C29726}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\source\\repos\\newrepo\\dotnettaskmanager\\todoapi\\todoapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,45 +46,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TodoApi.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.API\\appsettings.json",
-              "RelativeToolTip": "TodoApi.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-27T04:23:09.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.API\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi.API\\Program.cs",
-              "ToolTip": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.API\\Program.cs",
-              "RelativeToolTip": "TodoApi.API\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAawFEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T04:22:48.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:36:01.196Z",
-              "EditorCaption": ""
             }
           ]
         }

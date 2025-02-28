@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKHFagFgtdw=",
+  "dgSpecHash": "fOpBrAdRWB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.kalita\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\a.kalita\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

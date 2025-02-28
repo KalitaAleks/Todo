@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj": {}
+    "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj": {
+    "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
         "projectName": "TodoApi.Core",
-        "projectPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
+        "projectPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
         "packagesPath": "C:\\Users\\a.kalita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\obj\\",
+        "outputPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj": {
+    "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
         "projectName": "TodoApi.Infrastructure",
-        "projectPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\a.kalita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj": {
-                "projectPath": "C:\\Users\\a.kalita\\source\\repos\\NewRepo\\DotNetTaskManager\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj"
+              "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj": {
+                "projectPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj"
               }
             }
           }
