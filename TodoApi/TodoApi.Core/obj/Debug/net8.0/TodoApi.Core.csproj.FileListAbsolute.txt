@@ -49,3 +49,4 @@ C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\To
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\refint\TodoApi.Core.dll
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\TodoApi.Core.pdb
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\ref\TodoApi.Core.dll
+C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
