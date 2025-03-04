@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9yHN08JoOU=",
+  "dgSpecHash": "3pSlHFoCIfE=",
   "success": true,
   "projectFilePath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Core\\TodoApi.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\a.kalita\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
