@@ -2,12 +2,12 @@
 {
     public class Todo
     {
-        public Guid Id { get; set; }
-        public string? Title { get; set; }
-        public bool IsCompleted { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public Guid UserId { get; set; } // Внешний ключ
-        public User? User { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();         // Уникальный идентификатор
+        public string Title { get; set; } = string.Empty;      // Заголовок задачи
+        public bool IsCompleted { get; set; } = false;         // Статус выполнения
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow; // Дата создания
+        public Guid UserId { get; set; }                       // Внешний ключ пользователя
+        public User User { get; set; } = null!;                // Навигационное свойство
     }
 
 

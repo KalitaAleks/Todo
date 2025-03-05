@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\todoapi.api\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\todoapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\todoapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\todoapi.api\\filters\\addpaginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87914106-222D-421E-BF5C-3C3C9706DBEE}|TodoApi.API\\TodoApi.API.csproj|solutionrelative:todoapi.api\\filters\\addpaginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB474888-B5B5-4FBD-8139-0FC052C29726}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\todoapi.infrastructure\\service\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB474888-B5B5-4FBD-8139-0FC052C29726}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\service\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,28 +62,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\AuthService.cs",
-              "RelativeDocumentMoniker": "TodoApi.API\\AuthService.cs",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\AuthService.cs",
-              "RelativeToolTip": "TodoApi.API\\AuthService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA2wDsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\Service\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\Service\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.Infrastructure\\Service\\TodoRepository.cs",
+              "RelativeToolTip": "TodoApi.Infrastructure\\Service\\TodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T09:33:09.561Z",
+              "WhenOpened": "2025-03-05T11:20:48.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TodoApi.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\appsettings.json",
-              "RelativeToolTip": "TodoApi.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T09:31:58.041Z",
+              "Title": "AddPaginationParameters.cs",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\Filters\\AddPaginationParameters.cs",
+              "RelativeDocumentMoniker": "TodoApi.API\\Filters\\AddPaginationParameters.cs",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\Filters\\AddPaginationParameters.cs",
+              "RelativeToolTip": "TodoApi.API\\Filters\\AddPaginationParameters.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:14:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi.API\\Program.cs",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\TodoApi.API\\Program.cs",
+              "RelativeToolTip": "TodoApi.API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:09:20.726Z",
               "EditorCaption": ""
             }
           ]
