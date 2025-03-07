@@ -10,7 +10,7 @@ using TodoApi.Infrastructure;
 
 namespace TodoApi.API
 {
-    public class AUTHService(AppDbContext context, IConfiguration config) : IAuthService
+    public class AUTHService(AppDbContext context, IConfiguration config, IUserRepository userRepo) : IAuthService
     {
         private readonly AppDbContext _context = context;
         private readonly IConfiguration _config = config;

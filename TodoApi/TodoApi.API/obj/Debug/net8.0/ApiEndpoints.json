@@ -42,7 +42,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.Core.Controller.TodosController",
+    "ContainingType": "TodoApi.API.Controllers.TodosController",
     "Method": "GetAll",
     "RelativePath": "api/todos",
     "HttpMethod": "GET",
@@ -73,7 +73,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.Core.Controller.TodosController",
+    "ContainingType": "TodoApi.API.Controllers.TodosController",
     "Method": "Create",
     "RelativePath": "api/todos",
     "HttpMethod": "POST",
@@ -89,7 +89,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.Core.Controller.TodosController",
+    "ContainingType": "TodoApi.API.Controllers.TodosController",
     "Method": "GetById",
     "RelativePath": "api/todos/{id}",
     "HttpMethod": "GET",
@@ -105,7 +105,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.Core.Controller.TodosController",
+    "ContainingType": "TodoApi.API.Controllers.TodosController",
     "Method": "Update",
     "RelativePath": "api/todos/{id}",
     "HttpMethod": "PUT",
@@ -126,7 +126,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoApi.Core.Controller.TodosController",
+    "ContainingType": "TodoApi.API.Controllers.TodosController",
     "Method": "Delete",
     "RelativePath": "api/todos/{id}",
     "HttpMethod": "DELETE",

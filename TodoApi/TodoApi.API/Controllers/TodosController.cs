@@ -5,7 +5,7 @@ using TodoApi.Core.DTO;
 using TodoApi.Core.Inerface;
 using TodoApi.Core.Model;
 
-namespace TodoApi.Core.Controller
+namespace TodoApi.API.Controllers
 {
     [Authorize]
     [ApiController]

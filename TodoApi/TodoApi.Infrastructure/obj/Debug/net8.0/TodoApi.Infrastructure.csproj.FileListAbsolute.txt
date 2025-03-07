@@ -32,8 +32,6 @@ C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Infrast
 C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\TodoApi.Infrastructure.genruntimeconfig.cache
 C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Infrastructure\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\TodoApi.Core.staticwebassets.endpoints.json
-C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\appsettings.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\TodoApi.Infrastructure.staticwebassets.endpoints.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\TodoApi.Infrastructure.deps.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Infrastructure\bin\Debug\net8.0\TodoApi.Infrastructure.runtimeconfig.json

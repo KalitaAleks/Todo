@@ -3,7 +3,7 @@
     "postgresql1": {
       "containerPorts": "5432:5432",
       "secretStore": "LocalSecretsFile",
-      "containerName": "postgresql",
+      "containerName": "postgres",
       "containerImage": "postgres",
       "resourceId": null,
       "type": "postgresql.container",
