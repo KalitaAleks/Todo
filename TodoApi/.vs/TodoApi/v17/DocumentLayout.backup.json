@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\serveroption.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\serveroption.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\tests\\integrationtests\\todointegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\integrationtests\\todointegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,54 +62,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "serverOption.ts",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\serverOption.ts",
-              "RelativeDocumentMoniker": "Frontend\\ClientApp\\serverOption.ts",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\serverOption.ts",
-              "RelativeToolTip": "Frontend\\ClientApp\\serverOption.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-03T08:59:20.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "tsconfig.node.json",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.node.json",
-              "RelativeDocumentMoniker": "Frontend\\ClientApp\\tsconfig.node.json",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.node.json",
-              "RelativeToolTip": "Frontend\\ClientApp\\tsconfig.node.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T08:57:46.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tsconfig.json",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.json",
-              "RelativeDocumentMoniker": "Frontend\\ClientApp\\tsconfig.json",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.json",
-              "RelativeToolTip": "Frontend\\ClientApp\\tsconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T08:51:50.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "vite.config.ts",
-              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\vite.config.ts",
-              "RelativeDocumentMoniker": "Frontend\\ClientApp\\vite.config.ts",
-              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\vite.config.ts",
-              "RelativeToolTip": "Frontend\\ClientApp\\vite.config.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-03T08:49:14.89Z",
+              "Title": "TodoIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Tests\\IntegrationTests\\TodoIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\IntegrationTests\\TodoIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Tests\\IntegrationTests\\TodoIntegrationTests.cs",
+              "RelativeToolTip": "Tests\\IntegrationTests\\TodoIntegrationTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:14:22.172Z",
               "EditorCaption": ""
             }
           ]
