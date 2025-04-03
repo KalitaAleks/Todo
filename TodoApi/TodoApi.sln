@@ -18,6 +18,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.Infrastructure", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{9CF47860-2CEA-F379-09D8-9AEF27965D12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "Frontend\Frontend.csproj", "{B9E01570-7436-4E0C-925C-82AAC7587762}"
+	ProjectSection(ProjectDependencies) = postProject
+		{87914106-222D-421E-BF5C-3C3C9706DBEE} = {87914106-222D-421E-BF5C-3C3C9706DBEE}
+		{CE9C0A54-E82A-4149-824D-750542666182} = {CE9C0A54-E82A-4149-824D-750542666182}
+		{DB474888-B5B5-4FBD-8139-0FC052C29726} = {DB474888-B5B5-4FBD-8139-0FC052C29726}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,8 +47,15 @@ Global
 		{9CF47860-2CEA-F379-09D8-9AEF27965D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF47860-2CEA-F379-09D8-9AEF27965D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF47860-2CEA-F379-09D8-9AEF27965D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E01570-7436-4E0C-925C-82AAC7587762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E01570-7436-4E0C-925C-82AAC7587762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E01570-7436-4E0C-925C-82AAC7587762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E01570-7436-4E0C-925C-82AAC7587762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB4FA9C5-4A87-4F20-ABAD-F3BED59C5389}
 	EndGlobalSection
 EndGlobal

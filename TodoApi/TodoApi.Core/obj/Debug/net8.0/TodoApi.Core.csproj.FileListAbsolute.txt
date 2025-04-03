@@ -24,8 +24,6 @@ C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\ob
 C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\TodoApi.Core.pdb
 C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\ref\TodoApi.Core.dll
 C:\Users\a.kalita\source\repos\NewRepo\DotNetTaskManager\TodoApi\TodoApi.Core\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\bin\Debug\net8.0\appsettings.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\bin\Debug\net8.0\TodoApi.Core.staticwebassets.endpoints.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\bin\Debug\net8.0\TodoApi.Core.deps.json
 C:\Users\a.kalita\Documents\GitHub\Todo\TodoApi\TodoApi.Core\bin\Debug\net8.0\TodoApi.Core.dll

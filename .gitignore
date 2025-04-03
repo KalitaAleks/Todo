@@ -5,3 +5,8 @@
 /TodoApi/.vs/TodoApi/FileContentIndex/edf45022-e611-4bc9-a5c3-82be90bec8a4.vsidx
 /TodoApi/.vs/TodoApi/FileContentIndex/fcf9ed01-e8d3-4615-a8d7-7b7493877d93.vsidx
 *.vsidx
+/TodoApi/.vs/ProjectEvaluation/*.bin
+/TodoApi/Frontend/bin/Debug/net6.0
+
+/TodoApi/.vs/TodoApi/DesignTimeBuild/.dtbcache.v2
+/TodoApi/Frontend/obj
