@@ -1,8 +1,10 @@
+// serverOption.ts
+import type { ServerOptions } from 'vite';
 
-export const serverOption = {
+export const serverOptions: ServerOptions = {
     proxy: {
         '/api': {
-            target: 'http://localhost:7105',
+            target: 'http://localhost:5273',
             changeOrigin: true,
             rewrite: (path) => path.replace(/^\/api/, '')
         }

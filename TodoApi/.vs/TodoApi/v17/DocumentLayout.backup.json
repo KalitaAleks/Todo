@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|c:\\users\\a.kalita\\documents\\github\\todo\\todoapi\\frontend\\clientapp\\serveroption.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B9E01570-7436-4E0C-925C-82AAC7587762}|Frontend\\Frontend.csproj|solutionrelative:frontend\\clientapp\\serveroption.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "serverOption.ts",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\serverOption.ts",
+              "RelativeDocumentMoniker": "Frontend\\ClientApp\\serverOption.ts",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\serverOption.ts",
+              "RelativeToolTip": "Frontend\\ClientApp\\serverOption.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-03T08:59:20.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "Frontend\\ClientApp\\tsconfig.node.json",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.node.json",
+              "RelativeToolTip": "Frontend\\ClientApp\\tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T08:57:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.json",
+              "RelativeDocumentMoniker": "Frontend\\ClientApp\\tsconfig.json",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\tsconfig.json",
+              "RelativeToolTip": "Frontend\\ClientApp\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T08:51:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\vite.config.ts",
+              "RelativeDocumentMoniker": "Frontend\\ClientApp\\vite.config.ts",
+              "ToolTip": "C:\\Users\\a.kalita\\Documents\\GitHub\\Todo\\TodoApi\\Frontend\\ClientApp\\vite.config.ts",
+              "RelativeToolTip": "Frontend\\ClientApp\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-03T08:49:14.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

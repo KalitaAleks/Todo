@@ -16,16 +16,12 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "typeRoots": [ "./src/types", "./node_modules/@types", "./*" ],
-    "types": [ "vite/client" ],
-    "rootDir": "./ClientApp"
+    "types": [ "vite/client" ]
   },
 
   "include": [
     "src/**/*",
-    "env.d.ts",
-    "**/*.ts",
-    "./ClientApp/**/*",
-    "../serverOption"
+    "env.d.ts"
   ],
   "references": [ { "path": "./tsconfig.node.json" } ]
 
